@@ -26,7 +26,7 @@
 ## 🧪 Demo
 
 Live app:  
-👉 
+👉 https://dev-dash-sable.vercel.app/
 ---
 
 ## 📝 Getting Started (Local Setup)
